@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "username": "Иванов Иван Иванович",
+    "email": "ivanov@mail.ru",
+    "password": "$2a$08$.UTn4ixvyUxAMmMUxV63T.35XbbWyJoOCBILlJmH0uSfYJR.EnUB2"
+  },
+  {
+    "id": 2,
+    "username": "Петров Петр Петрович",
+    "email": "petrov@mail.ru",
+    "password": "$2a$08$IDI1fiSnTQdOxvR1mqNyAOH26GeGpkrLJi0FqnbFnpXDRJ1VLV4IK"
+  }
+]
